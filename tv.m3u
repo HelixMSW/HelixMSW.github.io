@@ -7,3 +7,33 @@ http://103.109.56.116/live/skyfeed1004/index.m3u8
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:0,Gtv
 http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:0,Somoy Tv
+http://45.58.139.242:9630/libris/somoy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA1OjA3OjA0IEFNJmhhc2hfdmFsdWU9WGZKdTlFcnQwM0NYMURXQjUvWU9Idz09JnZhbGlkbWludXRlcz0y
+#EXTINF:0,Atn Bangla
+http://87.117.234.51:8554/pose/atnbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA4OjM0OjIwIEFNJmhhc2hfdmFsdWU9M1hiNUt3Z1l3bUxaYTNZNWZMRm5DZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:0,BanglaVision
+http://87.117.234.51:8554/pose/banglavision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA4OjM3OjE5IEFNJmhhc2hfdmFsdWU9UCttNDRmTHh1OTVtMGQ1MlpJckRzUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:0,Boishaki Tv
+http://87.117.234.51:8554/pose/boishakhitv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDoxOTo0NSBBTSZoYXNoX3ZhbHVlPU9aYkFJY3BHdjVDRmVXeC82dlU2YWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Channel 24
+http://87.117.234.51:8554/pose/channel24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDoyMTowOSBBTSZoYXNoX3ZhbHVlPXQ1VS9wd1BmMjd5bS9PSGhVWVhKc0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Channel I
+http://87.117.234.51:8554/pose/channeli/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDoyMzoxMiBBTSZoYXNoX3ZhbHVlPWN1NlVXT1p4N1N5TWdiZThxQzFNL1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Colors Bangla
+http://dspecg.tth.cl:6500/eros/colorsbanglahd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDoyNDoxNSBBTSZoYXNoX3ZhbHVlPU9tZDJGdndaZExwdFBKYlVOQ1dxSUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,DBC News
+http://87.117.234.51:8554/pose/dbcnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDoyNTozMyBBTSZoYXNoX3ZhbHVlPUVWS0Y2WUJtYVZoWldZelZpVitBb1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Dipto tv
+http://87.117.234.51:8554/pose/deeptotvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDoyNjoyNyBBTSZoYXNoX3ZhbHVlPUczSHRCTVMyRTZvSkt1R0hhWnU5Wnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Desh Tv
+http://87.117.234.51:8554/pose/deshtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDoyODo0MSBBTSZoYXNoX3ZhbHVlPXQzdmFSRnZmakRxRXU2WXNEcnliSHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Independent tv
+https://tempskynk.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDozMTozNSBBTSZoYXNoX3ZhbHVlPTNrOUdSdGJIN0haaGZ5WlNRQ3Rjd3c9PSZ2YWxpZG1pbnV0ZXM9NTAmaWQ9NQ==
+#EXTINF:0,Massranga
+http://cqwcz.ivi.pl:10920/corpus/maasaranga/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDozMzoyMSBBTSZoYXNoX3ZhbHVlPXhBUDZCcCtsWUwzcWhCN1JhUVlOR3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Jamuna tv
+https://tempskynk.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDozNTowMyBBTSZoYXNoX3ZhbHVlPU1DUW56b0ZaZ0wySDRxWlJHNnBnYlE9PSZ2YWxpZG1pbnV0ZXM9NTAmaWQ9NQ==
+#EXTINF:0,News24
+http://87.117.234.51:8554/pose/news24hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDo0MDoxNSBBTSZoYXNoX3ZhbHVlPTNQR0hnOElSRzA1dXZWdmkyRVhlMlE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,Nick bangla
+http://cqwcz.ivi.pl:10920/selen/nickbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSAxMDo0MDo1NCBBTSZoYXNoX3ZhbHVlPTBpcWlOVzVwbEpJS2hOYm1hdnZIWVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
