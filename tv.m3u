@@ -8,7 +8,7 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:0,Gtv
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:0,Somoy Tv
-http://45.58.139.242:9630/libris/somoy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA1OjA3OjA0IEFNJmhhc2hfdmFsdWU9WGZKdTlFcnQwM0NYMURXQjUvWU9Idz09JnZhbGlkbWludXRlcz0y
+https://live.bongobd.com/hls/CJDdprN6iZAfbcWTJzwU5w/1637343419/shomoy_tv.m3u8
 #EXTINF:0,Atn Bangla
 http://87.117.234.51:8554/pose/atnbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA4OjM0OjIwIEFNJmhhc2hfdmFsdWU9M1hiNUt3Z1l3bUxaYTNZNWZMRm5DZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:0,BanglaVision
