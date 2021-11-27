@@ -1,4 +1,9 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/HAC_2010_MEDINE_MESCIDI_NEBEVI_-_panoramio.jpg/1280px-HAC_2010_MEDINE_MESCIDI_NEBEVI_-_panoramio.jpg" group-title="Bangla", Madina TV HD
+http://wecrmv.yozh.us:21321/otos/madina/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSA5OjI0OjUyIEFNJmhhc2hfdmFsdWU9cDhrU0x2UUdDYndmbXIyc0luSlJCZz09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
